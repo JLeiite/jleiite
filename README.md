@@ -3,8 +3,11 @@ From an early age, I've held a strong fascination for the world of technology. T
 
 Contact me: [Linkedin](https://www.linkedin.com/in/jleiite/)
 
-Top skills:
-- Javascript
-- React
-- Figma
-- UX/UI
+My skills:
+- UX/UI Designer
+- Frontend
+- Backend
+
+ ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+Confira um 
