@@ -12,6 +12,7 @@ Skills:
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 Follow me: [Linkedin](https://www.linkedin.com/in/jleiite/)
+
 ------------------------
 
 Desde pequena, sempre curti bastante o universo da tecnologia. A pandemia acabou me dando uma chance inesperada de retomar essa paixão, e eu aproveitei para me jogar na programação full-stack.
