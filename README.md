@@ -1,6 +1,7 @@
 Desde pequena me interesso pelo universo da tecnologia e levada pelo lado criativo, organização firme e uma vontade constante de encarar novos desafios, tenho uma trajetória comprovada de trabalho em alguns projetos de contato direto com clientes e parceiros.
 
 Projetos de design: [Portfolio](https://jleiite.github.io/profile/)
+
 Projetos desenvolvidos: [Portfolio](https://jleiite.github.io/portfolio/)
 
 Skills:
@@ -19,6 +20,7 @@ From an early age, I've held a strong fascination for the world of technology. T
 Driven by creative thinking, strong organizational abilities, and a relentless desire to tackle new challenges, I have a proven track record of direct client engagement and seamless stakeholder collaboration in past projects.
 
 UX/UI Design projects: [Portfolio](https://jleiite.github.io/profile/)
+
 Developted projects: [Portfolio](https://jleiite.github.io/portfolio/)
 
 Skills:
